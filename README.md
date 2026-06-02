@@ -78,18 +78,18 @@ C:\xampp\htdocs\rental-motor-dashboard
 
 ### 3. Import Database
 
-* Buka phpMyAdmin
-* Buat database baru
-
-```sql
-rental_motor
-```
-
-* Import file SQL
+Import file berikut ke phpMyAdmin:
 
 ```text
 database/rental_motor.sql
 ```
+
+Langkah:
+
+1. Buat database `rental_motor`
+2. Klik Import
+3. Pilih file `rental_motor.sql`
+4. Klik Go
 
 ### 4. Konfigurasi Database
 
